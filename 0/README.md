@@ -1,2 +1,9 @@
-# gfkd-linux-0.11
-长沙男子保洁学院大作业
+revision history:
+
+版本0: 这是oldlinux.org网站上的linux-0.11-lab.rar中的版本。可能是赵博士在原始0.11版本的基础上修改而成。我做了如下改动：
+    a) 对一些Makefile做了修改，生成调试信息；
+    b) 将其移植到ubuntu和debian下，主要修改的地方用 "by wyj"标注。
+
+修改:
+
+初步实现了getdents与getcwd系统调用
