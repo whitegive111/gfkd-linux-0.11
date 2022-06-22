@@ -4,3 +4,6 @@ revision history:
     a) 对一些Makefile做了修改，生成调试信息；
     b) 将其移植到ubuntu和debian下，主要修改的地方用 "by wyj"标注。
 
+修改:
+
+初步实现了getdents与getcwd系统调用
