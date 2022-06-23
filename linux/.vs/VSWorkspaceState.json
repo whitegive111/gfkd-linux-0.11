@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\include\\linux",
+    "\\init",
+    "\\kernel",
+    "\\lib",
+    "\\mm",
+    "\\tools"
+  ],
+  "PreviewInSolutionExplorer": false
+}
